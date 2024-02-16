@@ -10,3 +10,12 @@ Build using:
 cmake -B build
 cmake --build build
 ```
+
+<details>
+<summary>Requirements Arch Linux</summary>
+  
+```
+pacman -S glfw-x11
+```
+
+</details>
