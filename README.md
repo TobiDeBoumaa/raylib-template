@@ -1,6 +1,6 @@
 # raylib-template
 
-<img src='image.png' width='500'>
+<img src="image.png" alt="screenshot" width="75%"/>
 
 Because of the submodules, this repo needs to be cloned using:
 ```
