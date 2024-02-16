@@ -4,7 +4,7 @@
 
 Because of the submodules, this repo needs to be cloned using:
 ```
-git clone --recursive git@github.com:TobiDeBoumaa/raylib-template.git
+git clone --recursive https://github.com/TobiDeBoumaa/raylib-template.git
 ```
 
 Build using:
@@ -12,3 +12,12 @@ Build using:
 cmake -B build
 cmake --build build
 ```
+
+<details>
+<summary>Requirements Arch Linux</summary>
+  
+```
+pacman -S glfw-x11
+```
+
+</details>
